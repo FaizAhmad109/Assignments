@@ -1,5 +1,5 @@
 import java.util.Arrays;
-class MergeSortAlgo {
+class Q4_MergeSortAlgo {
     static void mergeSort(int [] arr , int start , int end)
     {
         if(end-start==1)
